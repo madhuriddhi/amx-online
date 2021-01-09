@@ -1,0 +1,4 @@
+Test file
+Source code management has become complex in today’s development practices. The application architecture has evolved from traditional development methodologies. Traditional Web development used to have Web as a front-end and REST or SOAP APIs were consumed by the UI server and client. Now, the user interface channels are not limited to Web, it has Android, iOS, Windows mobile application codebase to maintain. Maintaining codebase for different applications for a single project is quite complex. Thanks to Github/Gitlab for serving the best mechanism for the code management.
+
+
